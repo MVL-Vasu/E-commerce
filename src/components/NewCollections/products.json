@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "674cb16e53b52ceffa06f299",
+    "id": 1,
+    "name": "Wireless Earbuds",
+    "imgUrl": "https://example.com/images/earbuds.jpg",
+    "newPrice": 49.99,
+    "oldPrice": 59.99,
+    "__v": 0
+  },
+  {
+    "_id": "674cb16e53b52ceffa06f29a",
+    "id": 2,
+    "name": "Smart Watch",
+    "imgUrl": "https://example.com/images/smartwatch.jpg",
+    "newPrice": 99.99,
+    "oldPrice": 129.99,
+    "__v": 0
+  },
+  {
+    "_id": "674cb16e53b52ceffa06f29b",
+    "id": 3,
+    "name": "Laptop Backpack",
+    "imgUrl": "https://example.com/images/backpack.jpg",
+    "newPrice": 39.99,
+    "oldPrice": 49.99,
+    "__v": 0
+  },
+  {
+    "_id": "674cb16e53b52ceffa06f29c",
+    "id": 4,
+    "name": "Bluetooth Speaker",
+    "imgUrl": "https://example.com/images/speaker.jpg",
+    "newPrice": 29.99,
+    "oldPrice": 39.99,
+    "__v": 0
+  }
+]
